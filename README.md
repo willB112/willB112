@@ -1,8 +1,7 @@
 <!-- Visitor Counter -->
-<div align="center">
-  <p><b>Visitor count</b></p>
-  <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="Visitor count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=willB112&label=Profile%20views&color=blue&style=flat-square" alt="Visitor count"/>
+</p>
 
 <br>
 
