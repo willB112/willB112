@@ -1,6 +1,9 @@
 <!-- Visitor Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=willB112&label=Profile%20views&color=6c757d&style=flat-square" alt="Profile views"/>
+<p align="center">
+  <sub>
+    Retro counter:
+    <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="counter" height="12"/>
+  </sub>
 </p>
 
 
