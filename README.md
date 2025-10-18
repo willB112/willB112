@@ -1,9 +1,8 @@
 <!-- Visitor Counter -->
-<p align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/willB112&count_bg=%23555&title_bg=%232F81F7&icon=github.svg&icon_color=%23ffffff&title=Profile%20views&edge_flat=true" alt="Profile views"/>
-  </a>
-</p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="Visitor's Count" />
+</div>
 
 
 <br>
