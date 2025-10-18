@@ -1,7 +1,7 @@
-<!-- Centered Visitor Counter -->
-<div align="center"> 
+<!-- Visitor Counter -->
+<div align="center">
   <p><b>Visitor count</b></p>
-  <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="Visitor count" />
 </div>
 
 <br>
@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/willB112/willB112/main/IMG_0398.jpeg" alt="Banner of the Pemigewasset Wilderness" width="850"/>
 </div>
+
 
 <!--
 **willB112/willB112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
