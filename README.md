@@ -3,6 +3,8 @@
   <img src="https://profile-counter.glitch.me/willB112/count.svg" alt="Visitor's Count" />
 </div>
 
+<img src="https://github.com/willB112/willB112/blob/main/software-developer.png" alt="Banner of the Pemigewasset Wilderness">
+
 <!--
 **willB112/willB112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
