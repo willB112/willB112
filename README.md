@@ -1,7 +1,8 @@
 <!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=willB112&label=Profile%20views&color=blue&style=flat-square" alt="Visitor count"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=willB112&label=Profile%20views&color=6c757d&style=flat-square" alt="Profile views"/>
 </p>
+
 
 <br>
 
